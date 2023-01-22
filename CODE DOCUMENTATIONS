@@ -1,0 +1,15 @@
+/* game.js */
+
+/**
+ * @function handleKeyDown
+ * @param {Object} event - the keydown event
+ * @description Handles the keydown event and updates the position of the car on the track
+ */
+function handleKeyDown(event) {
+  // ...
+}
+
+/*Build tool
+
+npm install webpack webpack-cli --save-dev
+npm install eslint eslint-config-prettier eslint-plugin-prettier --save-dev
