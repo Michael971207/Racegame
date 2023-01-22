@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Racing Game</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="racetrack"></div>
+  <div id="car"></div>
+</body>
+<script src="game.js"></script>
+</html>
